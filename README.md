@@ -12,13 +12,11 @@ As a bonus and example, I also include a diferent version of the algorithm I use
 Don't forget to share your own versions if you can get some improvements ;)
 
 ## Links
-Websocket plugin to communicate with the ESP8266: 
+ - Websocket plugin to communicate with the ESP8266: 
 https://github.com/ILikon/WebSocketPlugins
-
-ESP8266 code to control the leds:
+ - ESP8266 code to control the leds:
 https://github.com/ILikon/ESPLedController
-
-The final project which includes all this functionallity and even more:
+ - The final project which includes all this functionallity and even more:
 https://github.com/ILikon/TabletCompanion
 
 Video preview:
