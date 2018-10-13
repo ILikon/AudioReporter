@@ -21,6 +21,7 @@ https://github.com/ILikon/TabletCompanion
 
 Video preview:
 
+[![](https://img.youtube.com/vi/je1WfeeDfdk/0.jpg)](https://www.youtube.com/watch?v=je1WfeeDfdk)
 
 ## Acknowledgments
  Some of the code in this skin is inspired or possibly copied and addapted from:
